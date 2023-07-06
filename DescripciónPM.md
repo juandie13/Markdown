@@ -107,7 +107,8 @@ __RNF1:  Rendimiento__
 
 __RNF2: Seguridad:__
 * Proteger la comunicación entre la aplicación y Firebase mediante el uso de HTTPS para garantizar la confidencialidad de los datos transferidos.
-RNF3: Usabilidad
+
+__RNF3: Usabilidad__
 *  La interfaz de usuario de la página de inicio de sesión debe seguir las pautas de diseño para la plataforma respectiva (Android e iOS), no obstante, cada una debe proporcionar una experiencia familiar y coherente con las demás.
 * La página de chat debe tener un diseño intuitivo y fácil de usar, con una disposición clara de mensajes y funciones de interacción claramente identificables.
 
